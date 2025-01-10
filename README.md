@@ -12,7 +12,7 @@ I am happy to provide any course projects I have completed, by request. Academic
 - **[netml](https://github.com/noise-lab/netml)**: extension of netml library for AI/ML network detection (Python, Markdown)
 - **ARM CPU Simulator**: simulation of a basic ARM computer (C)
 - **Basic UNIX Shell** (C)
-- **Processor Cache with LRU*** (C)
+- **Processor Cache with LRU** (C)
 
 #### Computer Security:
 - **Data Privacy Attack**: program to break differential privacy on a dataset and Laplace mechanism floating-point attack (Python)
