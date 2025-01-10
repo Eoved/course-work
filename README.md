@@ -5,7 +5,7 @@ If you are an employer looking for code samples and project work (or are just cu
 I am happy to provide any course projects I have completed, by request. Academic integrity policies prohibit the public listing of my coursework, but I will respond as soon as possible to any request for one or more of the following projects or coursework:
 
 #### Computer Systems:
-- **[chirouter](http://chi.cs.uchicago.edu/chirouter/index.html)**: IN PROGRESS simulated IP packet router (C)
+- **[chirouter](http://chi.cs.uchicago.edu/chirouter/index.html)**: simulated IP packet router (C)
 - **[chiTCP](http://chi.cs.uchicago.edu/chitcp/index.html)**: RFC compliant TCP implementation (C)
 - **[chirc](http://chi.cs.uchicago.edu/chirc/index.html)**: RFC compliant simulated IRC chat server (C)
 - **[Pintos](https://pintos-os.org/)**: instructional operating system kernel (C)
